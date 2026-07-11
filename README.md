@@ -234,6 +234,20 @@ Protecciones habilitadas:
 - Hardening
 - Registro y monitoreo de eventos
 
+---
+
+# Recursos del proyecto
+
+🎥 Video de demostración
+
+https://youtu.be/vnZ9osxL90c
+
+💻 Repositorio GitHub
+
+https://github.com/smilkxxx/Implementaci-n-de-un-Firewall-de-Nueva-Generaci-n-NGFW-con-FortiGate-VM
+
+---
+
 ```
 
 # 📖 Referencias
