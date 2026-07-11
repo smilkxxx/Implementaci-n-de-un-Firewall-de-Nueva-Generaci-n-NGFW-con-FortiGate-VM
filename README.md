@@ -2,10 +2,20 @@
 
 # 🛡️ Implementación de un Firewall de Nueva Generación (NGFW) con FortiGate VM
 
+<img src="capturas/banner.png" width="900">
+
 <br><br>
 
 <a href="https://youtu.be/vnZ9osxL90c">
-    <img src="https://img.shields.io/badge/%20Ver%20Video%20Completo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/%20Ver%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://github.com/smilkxxx/Implementaci-n-de-un-Firewall-de-Nueva-Generaci-n-NGFW-con-FortiGate-VM">
+<img src="https://img.shields.io/badge/💻%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="./SmilkBaezTavera_2024-1234_Informe_P1.pdf">
+<img src="https://img.shields.io/badge/📄%20Informe%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
 </a>
 
 </div>
