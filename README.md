@@ -54,12 +54,12 @@ En este laboratorio se implementó un **Firewall de Nueva Generación (NGFW)** u
 
 | Dispositivo | Interfaz | Dirección IP | Máscara |
 |-------------|----------|--------------|----------|
-| ISP Router | G0/0 | | |
-| FortiGate | WAN | | |
-| FortiGate | LAN Usuarios | | |
-| FortiGate | LAN Servidores | | |
-| Ubuntu Server | ens33 | | |
-| Kali Linux | eth0 | | |
+| ISP Router | G0/0 | 10.0.0.1 | 255.255.255.252 |
+| FortiGate | WAN | 10.0.0.2 | 255.255.255.252 |
+| FortiGate | LAN Usuarios | 192.168.10.0 | 255.255.255.128 |
+| FortiGate | LAN Servidores | 192.168.20.0 | 255.255.255.240 |
+| Ubuntu Server | ens33 | 192.168.20.2 | 255.255.255.240 |
+| Kali Linux | eth0 | 192.168.20.11 | 255.255.255.128 |
 
 ---
 
