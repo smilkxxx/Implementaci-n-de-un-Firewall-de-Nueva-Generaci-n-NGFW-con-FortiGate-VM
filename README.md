@@ -58,7 +58,7 @@ En este laboratorio se implementó un **Firewall de Nueva Generación (NGFW)** u
 | FortiGate | WAN | 10.0.0.2 | 255.255.255.252 |
 | FortiGate | LAN Usuarios | 192.168.10.0 | 255.255.255.128 |
 | FortiGate | LAN Servidores | 192.168.20.0 | 255.255.255.240 |
-| Ubuntu Server | ens33 | 192.168.20.2 | 255.255.255.240 |
+| Ubuntu Server | ens3 | 192.168.20.2 | 255.255.255.240 |
 | Kali Linux | eth0 | 192.168.20.11 | 255.255.255.128 |
 
 ---
