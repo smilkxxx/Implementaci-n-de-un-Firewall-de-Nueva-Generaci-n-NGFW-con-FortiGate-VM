@@ -2,11 +2,10 @@
 
 # 🛡️ Implementación de un Firewall de Nueva Generación (NGFW) con FortiGate VM
 
-
 <br><br>
 
-<a href="(https://youtu.be/vnZ9osxL90c)" target="_blank">
-    <img src="https://img.shields.io/badge/%20Ver%20Video%20Completo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://youtu.be/vnZ9osxL90c">
+    <img src="https://img.shields.io/badge/▶️%20Ver%20Video%20Completo-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 </div>
