@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/💻%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="./SmilkBaezTavera_2024-1234_Informe_P1.pdf">
-<img src="https://img.shields.io/badge/📄%20Informe%20PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-</a>
-
 </div>
 
 # 👨‍🎓 Información del Proyecto
