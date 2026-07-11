@@ -2,7 +2,6 @@
 
 # 🛡️ Implementación de un Firewall de Nueva Generación (NGFW) con FortiGate VM
 
-<img src="capturas/banner.png" width="900">
 
 <br><br>
 
